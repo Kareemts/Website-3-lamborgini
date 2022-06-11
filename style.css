@@ -1,0 +1,305 @@
+.navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 0.25rem;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+    transition: box-shadow 0.15s ease-in-out;
+}
+.mdgicon{
+    width: 200px;
+}
+
+
+.page6{
+    width: 500px;
+    height: 300px;
+    background-size: cover;
+    background-image: url(pics/cover_d\ \(1\).jpeg);
+}
+.page7{
+    width: 500px;
+    height: 300px;
+    background-size: cover;
+    background-image: url(pics/cover_d\ \(2\).jpeg);
+}
+
+.urus1{
+    
+    top: 10%;
+    color: #fff;
+    left: 10.5%;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+
+    .urus2{
+    top: 20%;
+    color: #fff;
+    left: 10%;
+    font-size: 100px;
+    font-weight: bolder;
+    line-height: 80px;
+}
+
+
+.ava1{
+    top: -800px;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    left: -100px;
+}
+.ava2{
+    top: -700px;
+    color: #fff;
+    left: -100px;
+    font-size: 100px;
+    font-weight: bolder;
+    line-height: 80px;  
+    text-align: left;
+}
+.huracan1{
+    top: -800px;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    left: -100px;
+}
+.huracan2{
+    top: -700px;
+    color: #fff;
+    left: -100px;
+    font-size: 100px;
+    font-weight: bolder;
+    line-height: 80px;  
+    text-align: left;
+}
+.aventador-page-2{
+    color: #fff;
+    top: 5px;
+    font-weight:500;
+    font-size: 50px;
+    right:100px;
+}
+.aventador-page-2-condent{
+    color: #fff;
+    top: 50px;
+    font-size: 150px;
+    font-weight: bolder;
+    right: 100px;
+}
+.aventador-page-3-condent{
+    color: #fff;
+    font-weight: bolder;
+    font-size: 50px;
+    right: 100px;
+    top: 250px;
+}
+.aventador-page-4-condent{
+    color: #fff;
+    bottom: 100px;
+    right: 200px;
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 35px;
+}
+.aventador-page-4-condent{
+cursor: pointer;
+}
+.CONFIGURATOR{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    left: 30px;
+    top: 40px;
+    
+}
+.creat{
+    color: black;
+    top: 100px;
+    left: 30px;
+    font-size: 100px;
+    font-weight: bolder;
+    line-height: 100px;
+
+}
+.page4{
+    width: 100%;
+    background-size: cover;
+}
+.container{
+    display: flex;
+}
+.Dealer{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+        top: 200px;
+        left: 100px;
+}
+.find{
+    color: #fff;
+    left: 100px;
+    font-size: 100px;
+    font-weight: bolder;
+    top: 300px;
+    line-height: 100px;
+}
+
+.newshead {
+    height: 700px;
+    font-weight: bold;
+    font-size: 40px;
+    width: 100%;
+}
+.newsclass{
+    width: 100%;
+    height: 60%;
+}
+.news{
+    left: 100px;
+    top: 80px;
+    font-weight: bold;
+    font-size: 50px;
+}
+.lamborginiworld{
+    font-size: 100px;
+    font-weight: bold;
+    line-height: 100px;
+    top: 150px;
+    left: 100px;
+}
+.imgnews1{
+    width: 100%;
+    height: 100%;
+}
+
+.lambonewspic{
+    width: 90%;
+    height: 100%;
+    left: 5%;
+}
+.MediaCenter{
+    width: 100%;
+    background-color: white;
+    height: 100%;
+}
+.date{
+    color:black;
+    padding-top: 100px;
+    padding-left: 100px;
+    font-size: 30px;
+}
+.huracan{
+    padding-left: 100px;
+}
+.huracanbtn{
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #f8f8f7;
+    border: none;
+}
+.huracanbtn:hover{
+    background: black;
+    color: white;
+}
+.DARIOCOSTA{
+    padding-left: 100px;
+}
+.Readmore1{
+    padding-left: 1000px;
+}
+.readmore2{
+    background-color: #fff;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+}
+.readmore2:hover{
+    background-color: black;
+    color: #fff;
+}
+.newscontent{
+    width: 100%;
+    border: 20px solid white
+}
+.date2{
+    font-size: large;
+    font-weight: lighter;
+}
+.urusbtn{
+    width: 100px;
+    font-size: 20px;
+    border: none;
+}
+.urusbtn:hover{
+    background: black;
+    color: white;
+}
+.RECORD{
+    font-size: 50px;
+    line-height: 40px;
+}
+.btmredmemore{
+    width: 100%;
+    align-content: center;
+}
+.btmredmemore{
+    display: flex;
+    justify-content: center;
+}
+.Readmorebtn{
+    font-size: 20px;
+    width: 250px;
+    color: white;
+    background-color: black;
+    height: 50px;
+
+}
+.Readmorebtn:hover{
+    background-color: white;
+    color: black;
+}
+.nothing{
+    width: 100%;
+    height: 100px;
+}
+.footer{
+width: 100%;
+background-color: black;
+}
+.footer1{
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 18px;
+    border: none;
+    color: #fff;
+    font-weight: normal;
+}
+.footer1:hover{
+    cursor: pointer;
+}
+.footer2{
+    margin-left: 20px;
+    font-size: 20px;
+    border: none;
+    color: #fff;
+    font-weight: lighter;
+}
+.btnicone{
+    color: #fff;
+}
+.btnicone:hover{
+    cursor: pointer;
+}
+

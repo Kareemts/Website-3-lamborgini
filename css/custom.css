@@ -1,0 +1,83 @@
+
+.navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 3px;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+    transition: box-shadow 0.15s ease-in-out;
+}
+.nav-link:hover{
+    cursor: pointer;
+}
+.bi:hover{
+    cursor: pointer;
+}
+.bugercss1{
+    background-color: rgb(255, 255, 255);
+    opacity: 0.8;
+    height: 2px;
+    width: 100%;
+    transform-origin: center center;
+    margin-top: 2px;
+
+}
+.bugercss2{
+    background-color: rgb(255, 255, 255);
+    opacity: 0.8;
+    height: 2px;
+    width: 100%;
+    transform-origin: center center;
+    margin-top: 10px;
+
+}
+.bugercss3{
+    background-color: rgb(255, 255, 255);
+    opacity: 0.8;
+    height: 2px;
+    width: 100%;
+    transform-origin: center center;
+    margin-top: 10px;
+
+}
+.carousel::after {
+    position: relative;
+}
+.carousel-caption {
+    position: absolute;
+    bottom: 1.25rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+.carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 30px;
+    left: 0;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin-right: 55%;
+    margin-bottom: 15rem;
+    margin-left: -11%;
+    list-style: none;
+}
+.hexao{
+    color: #fff;
+    font-size: 80px;
+    bottom: 200px;
+    left: 100px;
+    
+}
+.bi-hexagon:hover{
+    color: black;
+    cursor: pointer;
+}
